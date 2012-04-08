@@ -1,0 +1,16 @@
+{
+	"name" : "application-name",
+	"version" : "0.0.1",
+	"private" : true,
+	"dependencies":
+{
+	"express" : "latest",
+	"path": "latest",
+	"fs" : "latest",
+	"child_process" : "latest"
+},
+	"engines": {
+	"node": "0.6.12",
+	"npm" : "1.1.4"
+}
+}
